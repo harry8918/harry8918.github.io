@@ -1,2 +1,2 @@
 # harry8918.github.io
-Note
+Hyunu's Tech Note!
